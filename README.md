@@ -1,1 +1,1 @@
-![Alt text](img/example.png)
+![Alt text](img/screen.png)
